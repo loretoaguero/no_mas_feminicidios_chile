@@ -43,7 +43,7 @@ streamlit run streamlit_app.py
 
 La app permite:
 - Filtrar por región, categoría, tipificación penal, relación víctima-femicida y año.
-- Visualizar métricas, gráficos de barras y heatmaps de nombres.
+- Visualizar métricas, gráficos de barras y heatmaps de nombres, como una forma de no olvidar a las víctimas.
 - Explorar los datos filtrados en tabla.
 
 ![App screenshot](assets/First.png)
