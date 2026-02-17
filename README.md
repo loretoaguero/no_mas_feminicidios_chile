@@ -46,6 +46,9 @@ La app permite:
 - Visualizar métricas, gráficos de barras y heatmaps de nombres.
 - Explorar los datos filtrados en tabla.
 
+![App screenshot](assets/First.png)
+![App screenshot2](assets/Second.png)
+
 ## Personalización
 - Puedes modificar los filtros y visualizaciones en `streamlit_app.py`.
 - Para agregar nuevas fuentes de datos, edita el diccionario `google_sheets` en `main.py`.
